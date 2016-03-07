@@ -14,7 +14,7 @@ module.exports = {
   routePrefix: "patternguide", // default 'patternguide' <- allows for reverseproxy to serve a homepage
 
   // what templating engine will be used for partials and layouts?
-  // e.g. lodash, underscore, handlebars, hogan, ejs
+  // e.g. lodash, underscore, handlebars, shogan, ejs
   // all template engines supported by consolidate.js are supported in patternguide
   // https://github.com/tj/consolidate.js#supported-template-engines
   templating: "ejs", // default 'ejs'

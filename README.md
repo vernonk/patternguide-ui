@@ -14,4 +14,4 @@ Example PatternGuide pattern library project.
   |   -- layouts/
   |
   ```
-2. 
+2.
